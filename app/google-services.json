@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188872348155",
+    "firebase_url": "https://registrationform-22569-default-rtdb.firebaseio.com",
+    "project_id": "registrationform-22569",
+    "storage_bucket": "registrationform-22569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188872348155:android:34a147ab55aa6f47e3bb5e",
+        "android_client_info": {
+          "package_name": "com.example.cf_harmony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188872348155-kvgt9irnfa8b13u4repcnro0c8ogsajv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw85f-5E2l5ydNnbwLPNrd4rw8Jmix4zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188872348155-kvgt9irnfa8b13u4repcnro0c8ogsajv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
